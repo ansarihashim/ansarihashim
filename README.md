@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m **Hashim Ansari**<br><br>
 I’m a **21-year-old engineering student from Malegaon, India**, currently pursuing my **B.Tech at Government College of Engineering, Aurangabad (Chhatrapati Sambhaji Nagar)**.<br><br>
-I have hands-on experience working with **modern development stacks (MERN)** and enjoy building practical, real-world applications. At present, I’m **actively seeking internship opportunities** where I can apply my skills, learn from real production systems, and grow as an engineer.<br><br>
+I have hands-on experience working with **modern development stacks** and enjoy building practical, real-world applications. At present, I’m **actively seeking internship opportunities** where I can apply my skills, learn from real production systems, and grow as an engineer.<br><br>
 Alongside this, I’m **learning React Native** to expand my skill set toward mobile application development and cross-platform solutions.
 
 ---
