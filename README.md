@@ -41,7 +41,3 @@ Alongside this, I’m **learning React Native** to expand my skill set toward mo
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://api.quotable.io/random?maxLength=110)
-
----
