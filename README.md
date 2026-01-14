@@ -1,14 +1,14 @@
 # 💫 About Me:
 Hi, I’m **Hashim Ansari**<br><br>
 I’m a **21-year-old engineering student from Malegaon, India**, currently pursuing my **B.Tech at Government College of Engineering, Aurangabad (Chhatrapati Sambhaji Nagar)**.<br><br>
-I have hands-on experience working with **modern development stacks** and enjoy building practical, real-world applications. At present, I’m **actively seeking internship opportunities** where I can apply my skills, learn from real production systems, and grow as an engineer.<br><br>
+I have hands-on experience working with **modern development stacks (MERN)** and enjoy building practical, real-world applications. At present, I’m **actively seeking internship opportunities** where I can apply my skills, learn from real production systems, and grow as an engineer.<br><br>
 Alongside this, I’m **learning React Native** to expand my skill set toward mobile application development and cross-platform solutions.
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-ansari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashimansari1968@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hashimansari1968@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ansari_Hashim/)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207249803552-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917249803552)
 
@@ -42,7 +42,6 @@ Alongside this, I’m **learning React Native** to expand my skill set toward mo
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://api.quotable.io/random?maxLength=110)
 
 ---
-
